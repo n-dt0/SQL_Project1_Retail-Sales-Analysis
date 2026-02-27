@@ -1,0 +1,1 @@
+Alter database [SQL_Project_1] Modify Name = SQL_Project1_RetailSales
